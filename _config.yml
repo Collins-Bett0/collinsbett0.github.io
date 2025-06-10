@@ -13,15 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+title: *Collins Bett- My Portfolio* 
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
+github_username: Collins Bett0
+minimal_mistakes_skin: neon
 search: true
 
 # Build settings
@@ -58,22 +58,26 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Collins Kimutai Bett"
+  avatar : "/assets/images/user.png"
+  bio    : "I'm a curious and hands-on technologist exploring the intersection of cloud computing and cybersecurity. I started in geospatial technology, where I learned how data shapes the real world. Now, I'm building skills to secure digital systems and deploy scalable cloud infrastructure.
+
+           Currently diving deep into Microsoft Azure, AWS, Microsoft Defender, and Linux, I'm also learning tools like Terraform, Kali Linux, and SIEM systems. I hold the SC-900 certification and am preparing for the AZ-104 exam to solidify my cloud admin capabilities.
+
+             Whether it's writing secure infrastructure as code, managing identities, or building cloud-native apps, I’m excited about using tech to solve real-world problems. My goal? To help organizations stay secure, resilient, and cloud-ready"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    # label: "Twitter"
+     # icon: "fab fa-fw fa-twitter-square"
+     # url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/collins-bett010"
+    #label: "Instagram"
+    #icon: "fab fa-fw fa-instagram"
+    #url: "https://instagram.com/"
 
 footer:
   links:
