@@ -60,11 +60,7 @@ plugins:
 author:
   name   : "Collins Kimutai Bett"
   avatar : "/assets/images/user.png"
-  bio    : "I'm a curious and hands-on technologist exploring the intersection of cloud computing and cybersecurity. I started in geospatial technology, where I learned how data shapes the real world. Now, I'm building skills to secure digital systems and deploy scalable cloud infrastructure.
-
-           Currently diving deep into Microsoft Azure, AWS, Microsoft Defender, and Linux, I'm also learning tools like Terraform, Kali Linux, and SIEM systems. I hold the SC-900 certification and am preparing for the AZ-104 exam to solidify my cloud admin capabilities.
-
-             Whether it's writing secure infrastructure as code, managing identities, or building cloud-native apps, I’m excited about using tech to solve real-world problems. My goal? To help organizations stay secure, resilient, and cloud-ready"
+  bio    : "Curious technologist bridging geospatial roots with cloud security skills — one terminal at a time. My goal? To help organizations stay secure, resilient, and cloud-ready"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
