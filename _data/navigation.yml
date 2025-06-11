@@ -7,5 +7,6 @@ main:
     url: /Education/
   - title: "About"
     url: /about/
-  -title: " Contact Me"
-  url: /Contact/
+  - title: "Contact Me"
+    url: /Contact/
+
