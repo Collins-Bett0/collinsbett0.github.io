@@ -3,6 +3,29 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+# 👋 Hi, I’m Collins Bett
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I'm a curious technologist currently navigating my journey from **Geospatial Information Science** into the dynamic world of **Cloud Security and Cybersecurity**.
+
+With roots in mapping the physical world and a growing passion for securing the digital one, I’m building bridges between data, infrastructure, and secure systems — one terminal and tool at a time.
+
+## 🔐 Current Focus
+- Cybersecurity fundamentals (networking, threat modeling, SOC)
+- Cloud platforms (Azure, AWS) and their security layers
+- Security labs via [CyberShujaa](https://www.cybershujaa.co.ke), in partnership with **Microsoft**
+- Hands-on GitHub projects to cement skills
+
+## 🧭 My Background
+I studied **Geospatial Information Science**, gaining experience in spatial analysis, QGIS, Python scripting, and fieldwork. But I found myself increasingly drawn to automation, secure systems, and how to protect the digital side of spatial technologies.
+
+## ✨ Why This Site?
+This portfolio is where I:
+- Share what I’m learning (wins and mistakes)
+- Document my projects
+- Reflect on switching careers and staying motivated
+
+## 🧠 Outside Tech
+When I’m not debugging something or studying logs, you might find me:
+- Reading about tech ethics or digital rights
+- Doodling ideas for future side-projects
+- Mentoring peers making similar transitions
