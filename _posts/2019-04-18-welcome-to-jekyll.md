@@ -1,5 +1,5 @@
 ---
-title: "My cyber security journey"
+title: "How i stay motivated in my cyber security journey"
 date: 2025-06-11
 categories:
   - blog
@@ -8,22 +8,25 @@ tags:
   - cyber security
 ---
 
-You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Switching from GIS to cybersecurity hasn't been a walk in the park — it's more like hiking uphill while learning to read a new map.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+At first, I was constantly second-guessing myself. *"Am I cut out for this?"* *"Will I ever catch up with others who’ve been in tech longer?"* Imposter syndrome creeps in, especially when you’re surrounded by seasoned professionals and you're still trying to figure out ports vs. protocols.
 
-Jekyll also offers powerful support for code snippets:
+What’s kept me going?
 
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
+## 🎯 Community and Structure
+**Cybershujaa**, a Microsoft-supported initiative, gave me more than just content — it gave me community. Knowing I’m learning alongside others in Kenya who are just as curious (and just as overwhelmed) has been empowering. The structure of the LMS and hands-on labs with virtual machines made progress feel real.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+## 🧠 Mindset: Progress over Perfection
+I’ve learned not to compare my beginning to someone else's middle. Each GitHub project, every completed lab, and every new cybersecurity concept is a step forward. Small wins count.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+## 🛠️ What Helps Me Stay on Track
+- Posting small wins on **LinkedIn** (they add up and attract support!)
+- Pushing code or notes to **GitHub**, even if they’re simple
+- Blocking 1–2 hours daily for focused study — even if I don’t feel 100%
+
+## 💬 Final Thought
+Yes, it’s demanding. But it’s also deeply rewarding. The biggest shift has been realizing that **you don’t need to know everything — just keep showing up**.
+
+---
+
