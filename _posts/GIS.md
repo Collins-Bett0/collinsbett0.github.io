@@ -106,3 +106,6 @@ You’re ahead.
 I’m documenting my journey as a GIS graduate navigating this new reality, and I’d love to hear from others who’ve felt the same — especially from underrepresented regions.
 
 Let’s build the future of GIS — before someone else defines it for us.
+
+> ⚠️ *Note:* This article reflects my personal journey and perspective as a recent graduate navigating the GIS field. It is not intended to criticize individuals or hiring practices, but to spark discussion about how the profession is evolving — and how we as professionals can adapt with it.
+
